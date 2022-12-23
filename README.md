@@ -1,5 +1,14 @@
 # Fyle Backend Challenge
 
+
+## All tasks have been implemented:
+1- Built both the missing APIs
+2- Debugged minor asserts 
+3- Added one more test for grading 
+4- Screen shot of all tests passed and test coverage report is attached.
+
+
+
 ## Who is this for?
 
 This challenge is meant for candidates who wish intern at Fyle and work with our engineering team. You should be able to commit to at least 3 months of dedicated time for internship.
