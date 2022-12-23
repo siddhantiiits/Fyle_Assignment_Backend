@@ -2,10 +2,11 @@
 
 
 ## All tasks have been implemented:
-1- Built both the missing APIs
-2- Debugged minor asserts 
-3- Added one more test for grading 
-4- Screen shot of all tests passed and test coverage report is attached.
+
+1. Built both the missing APIs
+2. Debugged minor asserts 
+3. Added one more test for grading 
+4. Screen shot of all tests passed and test coverage report is attached.
 
 
 
